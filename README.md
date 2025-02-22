@@ -28,7 +28,10 @@ Project Potato is a **custom-designed 4-bit processor**, built as a learning exp
 ## 🚀 Future Plans  
 
 🛠 **Enhance Instruction Set** – Add logic operations, jumps, and conditional execution.  
-💾**Expand Memory Support** – Increase addressable RAM for more complex programs.
-🎮**Create a Proccesor Capable of Running Retro Games** - such as those made for the Atari, NES, or Gameboy.
+💾 **Expand Memory Support** – Increase addressable RAM for more complex programs.  
+🎮 **Create a Processor Capable of Running Retro Games** – Such as those made for the Atari, NES, or Game Boy.  
+  
+
+
 
 
