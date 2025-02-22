@@ -8,7 +8,7 @@ Project Potato is a **custom-designed 4-bit processor**, built as a learning exp
 
 ---
 
-## 🔥 Features & Capabilities  
+## 🔥 Features & Capabilities (WIP) 
 
 ✔ **4-bit Processor Design** – Handles basic operations with a simple instruction set.  
 ✔ **Custom ALU with Addition Functionality** – Supports arithmetic directly using RAM and registers.  
