@@ -4,7 +4,7 @@
 
 Designed in **Digital**, a logic simulator by [hneemann](https://github.com/hneemann/Digital).
 
-Project Potato is a **custom-designed 4-bit processor**, built as a learning experience in digital logic and computer architecture. This project explores how processors work at the fundamental level, with the ultimate goal of designing a **co-processor capable of running retro gaming consoles** like the **Atari, Game Boy, and NES**.  
+Project Potato is a **custom-designed 4-bit processor**, built as a learning experience in digital logic and computer architecture. This project explores how processors work at the fundamental level, with the ultimate goal of designing a **processor capable of running retro games** like those found on the **Atari, Game Boy, and NES**.  
 
 ---
 
