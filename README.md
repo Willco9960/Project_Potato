@@ -21,7 +21,7 @@ Project Potato is a **custom-designed 4-bit processor**, built as a learning exp
 2️⃣ **Build a Simple Yet Functional CPU** – Implement key components like RAM, an ALU, and a control unit.  
 3️⃣ **Experiment with Assembly-like Instructions** – Develop a simple instruction set to execute programs.  
 4️⃣ **Improve Performance & Complexity** – Add branching, I/O, and possibly stack-based operations.  
-5️⃣ **Expand into a Retro Gaming Co-Processor** – Create a specialized processor to assist in running **old-school console games (Atari, Game Boy, NES, etc.)**.  
+5️⃣ **Expand into a Retro Game Processor** – Create a specialized processor to assist in running **old-school console games (Atari, Game Boy, NES, etc.)**.  
 
 ---
 
